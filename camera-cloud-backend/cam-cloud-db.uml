@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>b05ea3db-c0f7-491f-a33b-c043ce4545cd.SCHEMA:camera_cloud.public</OriginalElement>
+  <nodes>
+    <node x="2568.041666666667" y="2801.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera_record_settting</node>
+    <node x="1956.856965174134" y="1933.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_box</node>
+    <node x="1027.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.ts_kv_latest</node>
+    <node x="702.4999999999999" y="2010.5">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tbuser_and_role</node>
+    <node x="3421.041666666667" y="0.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.oauth2_client_registration_info</node>
+    <node x="1898.606965174134" y="2867.5">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_customer_camera_permission</node>
+    <node x="1669.231965174134" y="1944.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_group_service</node>
+    <node x="430.5" y="788.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_permission</node>
+    <node x="701.3749999999999" y="2395.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_sysadmin</node>
+    <node x="2761.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.ts_kv_dictionary</node>
+    <node x="2477.9062500000023" y="1119.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device_profile</node>
+    <node x="1557.0" y="283.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant</node>
+    <node x="885.4999999999999" y="1911.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_user</node>
+    <node x="1230.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.ts_kv</node>
+    <node x="1067.5" y="1988.5">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_user_mobile_notify_token</node>
+    <node x="2758.916666666667" y="2010.5">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tbdevice_and_clalarm</node>
+    <node x="1517.0220771144304" y="1560.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.asset</node>
+    <node x="522.5" y="1582.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_role</node>
+    <node x="2714.9062500000023" y="1174.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_node</node>
+    <node x="459.0" y="2010.5">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_role_and_permission</node>
+    <node x="2325.125" y="1538.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device</node>
+    <node x="2311.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.oauth2_client_registration</node>
+    <node x="1535.5" y="0.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant_profile</node>
+    <node x="2238.584888059704" y="2252.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera</node>
+    <node x="10.5" y="766.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.event</node>
+    <node x="2807.041666666667" y="788.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.dashboard</node>
+    <node x="2149.856965174134" y="1966.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device_credentials</node>
+    <node x="2361.856965174134" y="2010.5">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm_revicers</node>
+    <node x="1798.5220771144304" y="777.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera_group</node>
+    <node x="195.5" y="700.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.alarm</node>
+    <node x="815.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera_record</node>
+    <node x="2953.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tb_schema_settings</node>
+    <node x="3210.041666666667" y="799.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.widgets_bundle</node>
+    <node x="160.0" y="1196.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm_history</node>
+    <node x="2581.041666666667" y="755.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_chain</node>
+    <node x="1636.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_example</node>
+    <node x="1216.9507151741318" y="1119.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.customer</node>
+    <node x="2732.9062500000023" y="1593.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_node_state</node>
+    <node x="1433.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.ts_kv_indefinite</node>
+    <node x="2366.666666666667" y="788.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.widget_type</node>
+    <node x="2082.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.user_credentials</node>
+    <node x="332.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.attribute_kv</node>
+    <node x="916.9999999999998" y="2351.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tenant</node>
+    <node x="1620.5220771144304" y="744.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.api_usage_state</node>
+    <node x="1070.0220771144304" y="1549.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tb_user</node>
+    <node x="884.0220771144303" y="1516.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.entity_view</node>
+    <node x="1674.731965174134" y="2439.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_service_option</node>
+    <node x="2953.666666666667" y="1516.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm</node>
+    <node x="965.7319651741342" y="2812.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_mange_media_box</node>
+    <node x="1825.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.relation</node>
+    <node x="0.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.oauth2_client_registration_template</node>
+    <node x="1256.0220771144304" y="1516.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.audit_log</node>
+    <node x="2574.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.admin_settings</node>
+    <node x="558.0" y="3123.0">b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.component_descriptor</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tenant" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_group_service" relationship="REFERENCES">
+      <point x="40.500000000000114" y="-149.5" />
+      <point x="1038.5" y="2220.0" />
+      <point x="1753.231965174134" y="2220.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_sysadmin" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_user" relationship="REFERENCES">
+      <point x="37.25" y="-105.5" />
+      <point x="813.1249999999999" y="2230.0" />
+      <point x="957.4999999999999" y="2230.0" />
+      <point x="0.0" y="138.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm_revicers" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm" relationship="REFERENCES">
+      <point x="38.25" y="-39.0" />
+      <point x="2476.606965174134" y="1869.0" />
+      <point x="3060.166666666667" y="1869.0" />
+      <point x="0.0" y="160.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_customer_camera_permission" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_user" relationship="REFERENCES">
+      <point x="-64.75" y="-72.0" />
+      <point x="1963.356965174134" y="2770.0" />
+      <point x="1324.4062500000023" y="2770.0" />
+      <point x="1324.4062500000023" y="2230.0" />
+      <point x="957.4999999999999" y="2230.0" />
+      <point x="0.0" y="138.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tb_user" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="-41.5" y="-127.5" />
+      <point x="1111.5220771144304" y="1484.0" />
+      <point x="1055.0220771144304" y="1484.0" />
+      <point x="1055.0220771144304" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm_history" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.alarm" relationship="REFERENCES">
+      <point x="42.0" y="-94.5" />
+      <point x="286.0" y="1092.0" />
+      <point x="303.0" y="1092.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.audit_log" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.customer" relationship="REFERENCES">
+      <point x="-60.25" y="-160.5" />
+      <point x="1316.2720771144304" y="1494.0" />
+      <point x="1299.9507151741318" y="1494.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.alarm" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-182.5" />
+      <point x="303.0" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.entity_view" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="-41.499999999999886" y="-160.5" />
+      <point x="925.5220771144304" y="1494.0" />
+      <point x="957.0220771144304" y="1494.0" />
+      <point x="957.0220771144304" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_user" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tb_user" relationship="REFERENCES">
+      <point x="36.000000000000114" y="-138.5" />
+      <point x="993.5" y="1889.0" />
+      <point x="1153.0220771144304" y="1889.0" />
+      <point x="0.0" y="127.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_mange_media_box" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="-66.33333333333326" y="-127.5" />
+      <point x="998.8986318408009" y="2780.0" />
+      <point x="0.0" y="2780.0" />
+      <point x="0.0" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_customer_camera_permission" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera" relationship="REFERENCES">
+      <point x="64.75" y="-72.0" />
+      <point x="2092.856965174134" y="2780.0" />
+      <point x="2286.084888059704" y="2780.0" />
+      <point x="-47.5" y="248.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_role_and_permission" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_permission" relationship="REFERENCES">
+      <point x="-48.75" y="-39.0" />
+      <point x="507.75" y="1889.0" />
+      <point x="511.0" y="1889.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.event" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-116.5" />
+      <point x="92.5" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tenant" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_user" relationship="REFERENCES">
+      <point x="-40.499999999999886" y="-149.5" />
+      <point x="0.0" y="138.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.customer" relationship="REFERENCES">
+      <point x="-55.333333333333485" y="-138.5" />
+      <point x="2352.7916666666665" y="1494.0" />
+      <point x="1299.9507151741318" y="1494.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.dashboard" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-94.5" />
+      <point x="2924.541666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tbuser_and_role" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tb_user" relationship="REFERENCES">
+      <point x="40.75" y="-39.0" />
+      <point x="824.7499999999999" y="1889.0" />
+      <point x="1153.0220771144304" y="1889.0" />
+      <point x="0.0" y="127.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_box" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device" relationship="REFERENCES">
+      <point x="43.25" y="-116.5" />
+      <point x="2086.606965174134" y="1879.0" />
+      <point x="2506.075715174132" y="1879.0" />
+      <point x="2506.075715174132" y="1859.0" />
+      <point x="2449.625" y="1859.0" />
+      <point x="41.5" y="138.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_sysadmin" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="-37.25" y="-105.5" />
+      <point x="738.6249999999999" y="2230.0" />
+      <point x="691.9999999999999" y="2230.0" />
+      <point x="691.9999999999999" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device_credentials" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device" relationship="REFERENCES">
+      <point x="0.0" y="-83.5" />
+      <point x="2245.856965174134" y="1869.0" />
+      <point x="2366.625" y="1869.0" />
+      <point x="-41.5" y="138.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera_group" relationship="REFERENCES">
+      <point x="-71.25" y="-248.5" />
+      <point x="2262.334888059704" y="2220.0" />
+      <point x="1906.5220771144304" y="2220.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_box" relationship="REFERENCES">
+      <point x="-23.75" y="-248.5" />
+      <point x="2309.834888059704" y="2210.0" />
+      <point x="2086.606965174134" y="2210.0" />
+      <point x="43.25" y="116.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.asset" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="41.5" y="-116.5" />
+      <point x="1641.5220771144304" y="1484.0" />
+      <point x="1610.0220771144304" y="1484.0" />
+      <point x="1610.0220771144304" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_chain" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-127.5" />
+      <point x="2684.041666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_service_option" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_group_service" relationship="REFERENCES">
+      <point x="0.0" y="-61.5" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_user_mobile_notify_token" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tb_user" relationship="REFERENCES">
+      <point x="0.0" y="-61.0" />
+      <point x="1183.0" y="1889.0" />
+      <point x="1153.0220771144304" y="1889.0" />
+      <point x="0.0" y="127.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.widget_type" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-94.5" />
+      <point x="2457.666666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.audit_log" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="60.25" y="-160.5" />
+      <point x="1436.7720771144304" y="1484.0" />
+      <point x="1502.6470771144304" y="1484.0" />
+      <point x="1502.6470771144304" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_mange_media_box" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tenant" relationship="REFERENCES">
+      <point x="0.0" y="-127.5" />
+      <point x="1065.231965174134" y="2770.0" />
+      <point x="997.9999999999998" y="2770.0" />
+      <point x="0.0" y="149.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tb_user" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.customer" relationship="REFERENCES">
+      <point x="41.5" y="-127.5" />
+      <point x="1194.5220771144304" y="1494.0" />
+      <point x="1299.9507151741318" y="1494.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_role" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-94.5" />
+      <point x="602.0" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.entity_view" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.customer" relationship="REFERENCES">
+      <point x="41.500000000000114" y="-160.5" />
+      <point x="1008.5220771144304" y="1494.0" />
+      <point x="1299.9507151741318" y="1494.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.asset" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.customer" relationship="REFERENCES">
+      <point x="-41.5" y="-116.5" />
+      <point x="1558.5220771144304" y="1494.0" />
+      <point x="1299.9507151741318" y="1494.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm_revicers" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tb_user" relationship="REFERENCES">
+      <point x="-38.25" y="-39.0" />
+      <point x="2400.106965174134" y="1889.0" />
+      <point x="1153.0220771144304" y="1889.0" />
+      <point x="0.0" y="127.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant_profile" relationship="REFERENCES">
+      <point x="0.0" y="-182.5" />
+      <point x="0.0" y="116.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-160.5" />
+      <point x="3060.166666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-138.5" />
+      <point x="2408.125" y="1484.0" />
+      <point x="2356.166666666667" y="1484.0" />
+      <point x="2356.166666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_box" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="-43.25" y="-116.5" />
+      <point x="2000.106965174134" y="1879.0" />
+      <point x="2025.6470771144304" y="1879.0" />
+      <point x="2025.6470771144304" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_node" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_chain" relationship="REFERENCES">
+      <point x="0.0" y="-116.5" />
+      <point x="2817.9062500000023" y="1092.0" />
+      <point x="2735.541666666667" y="1092.0" />
+      <point x="51.5" y="127.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tbdevice_and_clalarm" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm" relationship="REFERENCES">
+      <point x="50.25" y="-39.0" />
+      <point x="2909.666666666667" y="1869.0" />
+      <point x="3060.166666666667" y="1869.0" />
+      <point x="0.0" y="160.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tbuser_and_role" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_role" relationship="REFERENCES">
+      <point x="-40.75" y="-39.0" />
+      <point x="743.2499999999999" y="1889.0" />
+      <point x="602.0" y="1889.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="71.25" y="-248.5" />
+      <point x="2404.834888059704" y="2230.0" />
+      <point x="3177.166666666667" y="2230.0" />
+      <point x="3177.166666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device_profile" relationship="REFERENCES">
+      <point x="55.333333333333485" y="-138.5" />
+      <point x="2463.4583333333335" y="1494.0" />
+      <point x="2586.4062500000023" y="1494.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_user" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="-35.999999999999886" y="-138.5" />
+      <point x="921.5" y="1879.0" />
+      <point x="838.1470771144303" y="1879.0" />
+      <point x="838.1470771144303" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera_group" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-105.5" />
+      <point x="1906.5220771144304" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera_record_settting" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="54.0" y="-138.5" />
+      <point x="2730.041666666667" y="2780.0" />
+      <point x="3199.541666666667" y="2780.0" />
+      <point x="3199.541666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.widgets_bundle" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-83.5" />
+      <point x="3293.041666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_role_and_permission" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_role" relationship="REFERENCES">
+      <point x="48.75" y="-39.0" />
+      <point x="605.25" y="1889.0" />
+      <point x="602.0" y="1889.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera_record_settting" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera" relationship="REFERENCES">
+      <point x="-54.0" y="-138.5" />
+      <point x="2622.041666666667" y="2780.0" />
+      <point x="2381.084888059704" y="2780.0" />
+      <point x="47.5" y="248.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device_profile" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_chain" relationship="REFERENCES">
+      <point x="54.25" y="-171.5" />
+      <point x="2640.6562500000023" y="1092.0" />
+      <point x="2632.541666666667" y="1092.0" />
+      <point x="-51.5" y="127.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device_profile" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="-54.25" y="-171.5" />
+      <point x="2532.1562500000023" y="1092.0" />
+      <point x="2559.166666666667" y="1092.0" />
+      <point x="2559.166666666667" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.customer" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-171.5" />
+      <point x="1299.9507151741318" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_node_state" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.rule_node" relationship="REFERENCES">
+      <point x="0.0" y="-83.5" />
+      <point x="0.0" y="116.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_alarm_history" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="-42.0" y="-94.5" />
+      <point x="202.0" y="1092.0" />
+      <point x="185.0" y="1092.0" />
+      <point x="185.0" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_permission" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-94.5" />
+      <point x="511.0" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_tbdevice_and_clalarm" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device" relationship="REFERENCES">
+      <point x="-50.25" y="-39.0" />
+      <point x="2809.166666666667" y="1879.0" />
+      <point x="2506.075715174132" y="1879.0" />
+      <point x="2506.075715174132" y="1859.0" />
+      <point x="2449.625" y="1859.0" />
+      <point x="41.5" y="138.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.api_usage_state" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.tenant" relationship="REFERENCES">
+      <point x="0.0" y="-138.5" />
+      <point x="1699.5220771144304" y="674.0" />
+      <point x="1640.0" y="674.0" />
+      <point x="0.0" y="182.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_camera" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.device" relationship="REFERENCES">
+      <point x="23.75" y="-248.5" />
+      <point x="2357.334888059704" y="2220.0" />
+      <point x="2525.356965174134" y="2220.0" />
+      <point x="2525.356965174134" y="1879.0" />
+      <point x="2506.075715174132" y="1879.0" />
+      <point x="2506.075715174132" y="1859.0" />
+      <point x="2449.625" y="1859.0" />
+      <point x="41.5" y="138.5" />
+    </edge>
+    <edge source="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_mange_media_box" target="b05ea3db-c0f7-491f-a33b-c043ce4545cd.TABLE:camera_cloud.public.cl_box" relationship="REFERENCES">
+      <point x="66.33333333333326" y="-127.5" />
+      <point x="1131.5652985074676" y="2780.0" />
+      <point x="2056.825715174132" y="2780.0" />
+      <point x="2056.825715174132" y="2230.0" />
+      <point x="2000.106965174134" y="2230.0" />
+      <point x="-43.25" y="116.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.1613599568267674" showDependencies="false" x="1846.5" y="1843.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
